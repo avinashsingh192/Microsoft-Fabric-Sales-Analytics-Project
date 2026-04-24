@@ -32,7 +32,4 @@ The project followed a standard data engineering workflow:
 * I learned the importance of proper data modeling (creating a star schema) to enable powerful and accurate BI reporting.
 * I also gained experience in programmatic data preparation, such as writing a script to unzip files directly within the cloud environment, which was a necessary step not covered in the original tutorial.
 
-## Acknowledgements
 
-* This project was completed by following the excellent and detailed hands-on tutorial by **Rihab Feki**. Her article provided the foundational steps and guidance for this project. You can find the original article here: [Microsoft Fabric — Hands On Project](https://rihab-feki.medium.com/microsoft-fabric-hands-on-project-b4323b6ac550).
-* The dataset used is the World Wide Importers sample dataset, provided by Microsoft.
